@@ -1,4 +1,4 @@
-![Cover]([https://github.com/Titou360/Titou360/blob/master/img/hero.png](https://github.com/Titou360/Titou360/blob/main/img/hero.png?raw=true))
+![Cover](https://github.com/Titou360/Titou360/blob/master/img/hero.png)
 ### Hi there 👋
 
 <!--
