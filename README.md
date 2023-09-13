@@ -3,8 +3,11 @@
 
 My name's Clément.
 🔭 I’m currently working on Integrator Web formation with OpenClassRooms (from march 2023 to december 2023)
+
 🌱 I’m currently learning HTML 5 / CSS 3 / JS / React
+
 ⚡ Fun fact: I love music quizzes ♬
+
 
 I'am from Bordeaux 🇫🇷
 
