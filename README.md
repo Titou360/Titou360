@@ -1,4 +1,3 @@
-![Cover](https://github.com/Titou360/Titou360/blob/main/img/hero.png?raw=true)
 ### Hi there 👋
 
 My name's Clément.
