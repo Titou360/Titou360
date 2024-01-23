@@ -18,7 +18,8 @@ I'm Clément, a graduate with a Bachelor's degree in Web Integration from OpenCl
 - Wordpress
 - Adobe Photoshop
 
-- 🔭 I’m currently working on a gardener website
+## 🔭 I’m currently working on :
+- a gardener website
 
 ## Contact Me 📫
 - [LinkedIn](https://www.linkedin.com/in/clément-felices)
@@ -46,7 +47,8 @@ Je suis Clément, diplômé d'un Bac+2 en Intégrateur Web obtenu avec OpenClass
 - Wordpress
 - Adobe Photoshop
 
-- 🔭 Je travaille actuellement sur le site d'un jardinier
+## 🔭 Je travaille actuellement sur :
+- le site d'un jardinier
 
 ## Contactez-moi 📫
 - [LinkedIn](https://www.linkedin.com/in/clément-felices)
