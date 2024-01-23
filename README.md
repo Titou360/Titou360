@@ -1,15 +1,59 @@
-### Hi there 👋
+French is below
+# Hello everyone! 👋
 
-My name's Clément.
-🔭 I’m currently working on Integrator Web formation with OpenClassRooms (from march 2023 to december 2023)
+I'm Clément, a graduate with a Bachelor's degree in Web Integration from OpenClassRooms.
 
-🌱 I’m currently learning HTML 5 / CSS 3 / JS / React
+🚀 Passionate about continuous learning, I immerse myself in various technologies daily, with a particular focus on React.
 
-⚡ Fun fact: I love music quizzes ♬
+⚡ Fun fact: I'm an enthusiast of music quizzes! ♬
 
+📍 Based in Bordeaux, France 🇫🇷
 
-I'am from Bordeaux 🇫🇷
+## My Skills 💻
+- HTML 5
+- CSS 3
+- JavaScript
+- React
+- Tailwind CSS
+- Wordpress
+- Adobe Photoshop
 
+- 🔭 I’m currently working on a gardener website
+
+## Contact Me 📫
+- [LinkedIn](https://www.linkedin.com/in/clément-felices)
+- [Portfolio](https://clement-felices-portfolio.vercel.app/)
+- Email: clement.felices@outlook.fr
+
+Feel free to explore my projects and reach out for any collaboration or professional opportunities!
+
+# Bonjour à tous! 👋
+
+Je suis Clément, diplômé d'un Bac+2 en Intégrateur Web obtenu avec OpenClassRooms.
+
+🚀 Passionné par l'apprentissage continu, je me forme chaque jour à diverses technologies, avec une focalisation particulière sur React.
+
+⚡ Fun fact: Amateur de quizzes musicaux! ♬
+
+📍 Basé à Bordeaux, France 🇫🇷
+
+## Mes Compétences 💻
+- HTML 5
+- CSS 3
+- JavaScript
+- React
+- Tailwind CSS
+- Wordpress
+- Adobe Photoshop
+
+- 🔭 Je travaille actuellement sur le site d'un jardinier
+
+## Contactez-moi 📫
+- [LinkedIn](https://www.linkedin.com/in/clément-felices)
+- [Portfolio](https://clement-felices-portfolio.vercel.app/)
+- Email: clement.felices@gmail.com
+
+N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle!
 
 
 
